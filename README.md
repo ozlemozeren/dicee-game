@@ -1,5 +1,6 @@
 # dicee-game
-[Click Me]https://ozlemozeren.github.io/dicee-game/
+[Click Me]
+https://ozlemozeren.github.io/dicee-game/
 
 ## Topics
 
